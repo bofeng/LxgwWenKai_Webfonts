@@ -41,11 +41,11 @@ pre, code {
 
 ## How to build
 
-1. Use `git` to clone this repo, fork it.
-2. Delete all files under the `source` folder
-3, Delete all files under the `dist` folder
-4, Dopy your version of LXGW .ttf font files into the `source` folder.
-5, Run `pnpm install` and `pnpm run build`. you will be able to see the generated files under the `dist` folder.
+1. Use `git` to clone this repo, or fork it.
+1. Delete all files under the `source` folder.
+1. Delete all files under the `dist` folder.
+1. [Download the LXGW font](https://github.com/lxgw/LxgwWenKai/releases), put all .ttf files into the `source` folder.
+1. Run `pnpm install` and `pnpm run build`. you will be able to see the generated files under the `dist` folder.
 
 
 ## Credits
