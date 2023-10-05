@@ -14,15 +14,15 @@
 <!-- 霞鹜文楷 Regular -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bofeng/LxgwWenKai_Webfonts@v1.310/dist/LXGWWenKai-Regular.css" />
 <!-- 霞鹜文楷 Lite -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/satouriko/LxgwWenKai_Webfonts@v1.310/dist/LXGWWenKai-Light.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bofeng/LxgwWenKai_Webfonts@v1.310/dist/LXGWWenKai-Light.css" />
 <!-- 霞鹜文楷 Bold -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/satouriko/LxgwWenKai_Webfonts@v1.310/dist/LXGWWenKai-Bold.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bofeng/LxgwWenKai_Webfonts@v1.310/dist/LXGWWenKai-Bold.css" />
 <!-- 霞鹜文楷 Mono Regular -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/satouriko/LxgwWenKai_Webfonts@v1.310/dist/LXGWWenKaiMono-Regular.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bofeng/LxgwWenKai_Webfonts@v1.310/dist/LXGWWenKaiMono-Regular.css" />
 <!-- 霞鹜文楷 Mono Lite -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/satouriko/LxgwWenKai_Webfonts@v1.310/dist/LXGWWenKaiMono-Light.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bofeng/LxgwWenKai_Webfonts@v1.310/dist/LXGWWenKaiMono-Light.css" />
 <!-- 霞鹜文楷 Mono Bold -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/satouriko/LxgwWenKai_Webfonts@v1.310/dist/LXGWWenKaiMono-Bold.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bofeng/LxgwWenKai_Webfonts@v1.310/dist/LXGWWenKaiMono-Bold.css" />
 ```
 
 **2. 应用字体样式。** 浏览器会根据所显示文字、粗细动态加载资源。
